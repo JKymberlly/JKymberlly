@@ -12,11 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/564x/a2/e0/da/a2e0dae13035168d289fc3c65754667c.jpg"  />
-
-###
-
-<div align="right">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -28,7 +24,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <a href="https://www.instagram.com/eajhenny._" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
