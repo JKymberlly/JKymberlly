@@ -2,7 +2,7 @@
 
 ###
 
-<p>My name is Jhennifer Kymberlly and i'm currently 18 years old and studying Systems Analysis and Development!<p/> 
+<p>My name is Jhennifer Kymberlly and i'm currently 18 years old and studying Systems Analysis and Development!<p/> <br/>
 
   
 <div align="center">
